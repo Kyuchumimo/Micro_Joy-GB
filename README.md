@@ -1,5 +1,5 @@
-# MicroPython SN76489
-
+# Micro Joy-GB
+![micro_joy-gb](https://github.com/Kyuchumimo/Micro_Joy-GB/assets/74131798/a6889ac3-33b7-4171-9563-164dc3a5d953)
 
 This software is divided into 2 parts: master (computer) and slave (microcontroller).  
 
